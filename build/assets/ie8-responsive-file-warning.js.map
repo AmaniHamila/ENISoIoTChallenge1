@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ie8-responsive-file-warning.js",
+"lineCount":2,
+"mappings":"A;AAUgC,OAAhC,EAAIA,MAAAC,SAAAC,SAAJ,EACEC,KAAA,CAAM,uHAAN;",
+"sources":["ie8-responsive-file-warning.unminified.js"],
+"names":["window","location","protocol","alert"]
+}

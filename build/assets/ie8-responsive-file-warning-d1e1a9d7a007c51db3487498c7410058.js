@@ -1,0 +1,2 @@
+//# sourceMappingURL=ie8-responsive-file-warning.js.map
+"file:"==window.location.protocol&&alert("ERROR: Bootstrap's responsive CSS is disabled!\nSee getbootstrap.com/getting-started/#respond-file-proto for details.");
